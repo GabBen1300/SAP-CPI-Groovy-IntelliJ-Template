@@ -1,4 +1,4 @@
-# SAP-CPI-Groovy-IntelliJ-Template
+# SAP CPI Groovy IntelliJ Project Template
 
 1. **Install IntelliJ Community Edition**  
    Download and install IntelliJ IDEA Community Edition from [this link](https://www.jetbrains.com/idea/download/?section=windows).
