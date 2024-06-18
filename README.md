@@ -17,8 +17,8 @@ This project is a template for creating Groovy scripts for SAP CPI (Cloud Platfo
    - Navigate to `File > Open`.
    - Select the `TemplateCPIGroovy` project directory.
 
-4. **Run** 
-   A Run configuration called `Main` should be already present to execute `RunMain.groovy` file
+4. **Run**  
+   A Run configuration called `Main` should be already present to execute `RunMain.groovy` file.
 
 ## Troubleshooting
 
