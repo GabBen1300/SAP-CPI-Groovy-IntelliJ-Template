@@ -27,6 +27,11 @@ If the project cannot find the necessary libraries:
 2. Click the `+` button to add new libraries.
 3. Add all libraries present in the `IntelliJSAPGroovyLibrary` directory.
 
+If IntelliJ can't automatically detect Java JDK:
+
+1. Go to `File > Project Structure > Project`.
+2. Next to the `SDK` label, select the dropdown and click on `Download JDK...`
+3. Select version `1.8` and click `Download`
 ---
 
 Thank you for following the setup instructions. If you encounter any issues, please refer to the troubleshooting section or contact the project maintainer.
