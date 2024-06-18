@@ -7,7 +7,7 @@ This project is a template for creating Groovy scripts for SAP CPI (Cloud Platfo
 ## How To
 
 1. **Install IntelliJ Community Edition**  
-   Download and install IntelliJ IDEA Community Edition from [this link](https://www.jetbrains.com/idea/download/).
+   Download and install [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/).
 
 2. **Copy IntelliJSAPGroovyLibrary Directory**  
    Copy the directory `IntelliJSAPGroovyLibrary` to `C:\Program Files\JetBrains`.
@@ -17,7 +17,8 @@ This project is a template for creating Groovy scripts for SAP CPI (Cloud Platfo
    - Navigate to `File > Open`.
    - Select the `TemplateCPIGroovy` project directory.
 
-4. **End**
+4. **Run**
+   A Run configuration called `Main` should be already present to execute `RunMain.groovy` file
 
 ## Troubleshooting
 
