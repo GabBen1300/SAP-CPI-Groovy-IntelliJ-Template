@@ -4,6 +4,7 @@
 
 This project is a template for creating Groovy scripts for SAP CPI (Cloud Platform Integration) locally. The `value_mapping.xml` file is obtained by downloading the artifact of the value mapping from SAP Integration Suite.
 
+## How To
 
 1. **Install IntelliJ Community Edition**  
    Download and install IntelliJ IDEA Community Edition from [this link](https://www.jetbrains.com/idea/download/?section=windows).
