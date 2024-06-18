@@ -34,4 +34,4 @@ If IntelliJ can't automatically detect Java JDK:
 3. Select version `1.8` and click `Download`
 ---
 
-Thank you for following the setup instructions. If you encounter any issues, please refer to the troubleshooting section or contact the project maintainer.
+Thank you for following the setup instructions. If you encounter any issues, please refer to the troubleshooting section or open an issue.
