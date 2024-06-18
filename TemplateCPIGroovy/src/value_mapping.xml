@@ -1,0 +1,38 @@
+<vm version="2.0">
+    <group id="e860a53f4e8f6849942962daa3d5b4ab">
+        <entry>
+            <agency>SourceAgency</agency>
+            <schema>SourceIdentifier</schema>
+            <value>uno</value>
+        </entry>
+        <entry>
+            <agency>DestinationAgency</agency>
+            <schema>DestinationIdentifier</schema>
+            <value>1</value>
+        </entry>
+    </group>
+    <group id="d986c77ac7243925080379b5dfb0faf5">
+        <entry>
+            <agency>SourceAgency</agency>
+            <schema>SourceIdentifier</schema>
+            <value>due</value>
+        </entry>
+        <entry>
+            <agency>DestinationAgency</agency>
+            <schema>DestinationIdentifier</schema>
+            <value>2</value>
+        </entry>
+    </group>
+    <group id="277dc50b7fc1e3406f88794cb0abf5ca">
+        <entry>
+            <agency>SourceAgency</agency>
+            <schema>SourceIdentifier</schema>
+            <value>tre</value>
+        </entry>
+        <entry>
+            <agency>DestinationAgency</agency>
+            <schema>DestinationIdentifier</schema>
+            <value>3</value>
+        </entry>
+    </group>
+</vm>
